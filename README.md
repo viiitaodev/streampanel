@@ -3,7 +3,7 @@
 # Stream Panel
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Stream Panel" width="120" />
+  <img src="./assets/logo.png" alt="Stream Panel" width="320" />
   <h3>Unified Creator Control Center</h3>
   <p>A professional desktop workspace to manage chat, events, and stream operations across multiple platforms.</p>
 </div>
