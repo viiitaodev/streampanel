@@ -3,7 +3,7 @@
 # Stream Panel
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Stream Panel" width="120" />
+  <img src="./assets/logo.png" alt="Stream Panel" width="320" />
   <h3>Central de Controle Unificada para Criadores</h3>
   <p>Um workspace desktop profissional para gerenciar chat, eventos e operações da live em múltiplas plataformas.</p>
 </div>
