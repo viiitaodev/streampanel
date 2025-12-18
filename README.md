@@ -1,8 +1,8 @@
 # Stream Panel - ![Status](https://img.shields.io/badge/Status-Launching%20Soon-7c3aed) ![Progress](https://img.shields.io/badge/Progress-90%25-22c55e)
-PTBR - [![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9)](README.pt-BR.md)
 
 <div align="center">
   <img src="./assets/logo.png" alt="Stream Panel" width="320" />
+  PTBR - [![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9)](README.pt-BR.md)
   <h3>Unified Creator Control Center</h3>
   <p>A professional desktop workspace to manage chat, events, and stream operations across multiple platforms.</p>
 </div>
