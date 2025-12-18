@@ -77,5 +77,6 @@ O Stream Panel foca em **clareza operacional**, **feedback de baixa latência** 
 ---
 
 <div align="center">
+  <img src="./assets/nyxis.png" alt="Stream Panel" width="120" />
   <sub>Desenvolvido pela Nyxis Studio • Stream Panel</sub>
 </div>
