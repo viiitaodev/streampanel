@@ -7,6 +7,7 @@
       <img src="https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9" alt="Português" />
     </a>
   </p>
+  <br>
   <h3>Unified Creator Control Center</h3>
   <p>A professional desktop workspace to manage chat, events, and stream operations across multiple platforms.</p>
 </div>
