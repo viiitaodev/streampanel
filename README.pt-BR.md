@@ -1,9 +1,12 @@
-[English](README.md)
-
-# Stream Panel
+# Stream Panel - ![Status](https://img.shields.io/badge/Status-Em%20breve-7c3aed) ![Progresso](https://img.shields.io/badge/Progresso-90%25-22c55e)
 
 <div align="center">
   <img src="./assets/logo.png" alt="Stream Panel" width="320" />
+    <p>
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/English-README.md-0ea5e9" alt="English" />
+    </a>
+  </p>
   <h3>Central de Controle Unificada para Criadores</h3>
   <p>Um workspace desktop profissional para gerenciar chat, eventos e operações da live em múltiplas plataformas.</p>
 </div>
