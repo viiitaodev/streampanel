@@ -1,4 +1,4 @@
-[Português](README.pt-BR.md)
+![Português](https://img.shields.io/badge/Status-Launching%20Soon-7c3aed/README.pt-BR.md)
 
 # Stream Panel - ![Status](https://img.shields.io/badge/Status-Launching%20Soon-7c3aed) ![Progress](https://img.shields.io/badge/Progress-90%25-22c55e)
 
