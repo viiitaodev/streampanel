@@ -2,7 +2,11 @@
 
 <div align="center">
   <img src="./assets/logo.png" alt="Stream Panel" width="320" />
-   <p>[![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9)](README.pt-BR.md)</p>
+  <p>
+    <a href="README.pt-BR.md">
+      <img src="https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9" alt="Português" />
+    </a>
+  </p>
   <h3>Unified Creator Control Center</h3>
   <p>A professional desktop workspace to manage chat, events, and stream operations across multiple platforms.</p>
 </div>
