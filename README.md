@@ -1,6 +1,4 @@
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9)](README.pt-BR.md)
-
-# Stream Panel - ![Status](https://img.shields.io/badge/Status-Launching%20Soon-7c3aed) ![Progress](https://img.shields.io/badge/Progress-90%25-22c55e)
+# Stream Panel - ![Status](https://img.shields.io/badge/Status-Launching%20Soon-7c3aed) ![Progress](https://img.shields.io/badge/Progress-90%25-22c55e) - PTBR - [![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt--BR-0ea5e9)](README.pt-BR.md)
 
 <div align="center">
   <img src="./assets/logo.png" alt="Stream Panel" width="320" />
